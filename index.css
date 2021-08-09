@@ -1,6 +1,6 @@
 body {
     font-family: "Times New Roman", Times, serif;
-    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/king-arthurs-merlin-steve-roberts.jpg");
+    background-image: url('image.img')
     background-size: cover;
     font-weight: bold;
     font-style: oblique;
