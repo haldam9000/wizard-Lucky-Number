@@ -1,0 +1,40 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/king-arthurs-merlin-steve-roberts.jpg");
+    background-size: cover;
+    font-weight: bold;
+    font-style: oblique;
+    color: #FFD700;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+   text-shadow: 1px 1px black;
+    font-size: 50px;
+}
+
+#message-el {
+    font-style: bold;
+   color: #FFD700;
+}
+p {
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 2px 2px black;
+ 
+}
+
+button {
+    color: black;
+    width: 150px;
+    background: #00CED1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    //text-shadow: 1px 1px bLACK;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
